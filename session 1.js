@@ -107,8 +107,6 @@ console.log(typeof poya);
 let students={
     firstName: 'danial',
     lastName: 'zanjani'
-
-
 }
 
 console.log(students)
